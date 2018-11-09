@@ -6,7 +6,7 @@ int main()
   int liczba1,liczba2;
   char znak;
   
-  
+  printf("xd");
   
   
   
