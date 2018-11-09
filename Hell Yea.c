@@ -17,7 +17,9 @@ int main()
   
   case 4:
   
+  case 5:
   
+  case 6:
   */
   return 0;
 }
