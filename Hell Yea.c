@@ -10,8 +10,14 @@ int main()
   
   /*switch(x)
     case 1:
+            '+': x=a+b; 
+                  printf("Wynik: %d\n", x);
+             break;
   
   case 2:
+            '-': x=a-b;
+                  printf("Wynik: %d\n", x);
+             break;
   
   case 3:
   
